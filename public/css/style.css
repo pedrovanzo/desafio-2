@@ -1,0 +1,30 @@
+a{
+    color: white;
+}
+p{
+    font-size: 0.9em;
+}
+h1{
+    font-family: 'Kelly Slab', cursive;
+    color: #FCB001;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 15px;
+}
+.btnCustom{
+    background-color: #080E0C;
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+.btnCustom:hover{
+    background-color: #444;
+    color: white;
+}
+.cShadow{
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 16px;
+}
+.bgFooterCustom{
+    background-color: #080E0C;
+}
